@@ -1,4 +1,4 @@
-#include <stdin.o>
+#include <iostream>
 
 int main()
 {
