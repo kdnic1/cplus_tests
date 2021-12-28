@@ -10,5 +10,8 @@ int main()
   if (/* condition */) {
     /* code */
   }
+  while (`/* condition */`) {
+    /* code */
+  }
   return 0;
 }
